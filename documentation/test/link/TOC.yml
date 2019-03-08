@@ -15,6 +15,4 @@ items:
       href: TwoCodeLines.md
     - name: API中的所有代码
       href: Code_API.md
-    - name: SDK中所有代码
-      href: Code_SDK.md
 
