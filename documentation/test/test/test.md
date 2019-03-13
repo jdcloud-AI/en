@@ -7,6 +7,6 @@
 
 相对地址：
 ![case001_测试文档导入图片功能](/image/test/31531903434_.pic_hd.jpg)
-
+![case04_测试英文文档导入图片功能]/image/test/181531903560_.pic_hd.jpg
 
 
